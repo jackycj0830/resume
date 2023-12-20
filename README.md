@@ -4,6 +4,7 @@ disqus: aboofrontnote
 
 # resume
 鄒嘉駿履歷網站-JackyZou's Resume Website
+(https://jackyzou.wordpress.com/) 請按右鍵開啟新視窗瀏覽
 
 # 履歷
 ## 個人資料
