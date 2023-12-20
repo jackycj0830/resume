@@ -18,6 +18,8 @@ disqus: aboofrontnote
 jackycj0830@gamil.com
 
 |[🔴 JackyZou-Website] https://jackyzou.wordpress.com/
+[🔴 JackyZou-Website][(URL)](https://jackyzou.wordpress.com/){:target="_blank"}
+
 
 ## 簡歷
 ### 簡述
