@@ -9,9 +9,15 @@ disqus: aboofrontnote
 ## 個人資料
 
 鄒嘉駿
+
+
 1984-08-XX(個資法公開資料不完全顯示)
+
 0978-163-XXX(個資法公開資料不完全顯示)
+
 jackycj0830@gamil.com
+
+|[🔴 JackyZou-Website]([https://www.youtube.com/watch?v=taPz40VmyzQ&ab_channel=SonnySangha](https://jackyzou.wordpress.com/))|[2023/12/20]|
 
 ## 簡歷
 ### 簡述
