@@ -17,7 +17,7 @@ disqus: aboofrontnote
 
 jackycj0830@gamil.com
 
-|[🔴 JackyZou-Website] https://jackyzou.wordpress.com/(https://jackyzou.wordpress.com/)|[2023/12/20]|
+|[🔴 JackyZou-Website] https://jackyzou.wordpress.com/
 
 ## 簡歷
 ### 簡述
