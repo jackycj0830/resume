@@ -120,31 +120,6 @@ jackycj0830@gamil.com
 * 證照紀錄: 2011年MCITP微軟證照、2014年CISCO思科CCNA認證、2015年VMware虛擬化環境VCP認證、2021年Google數位行銷資格認證。
 
 
-## 工作經驗
-* 巨庭機械股份有限公司(組長)
-    2018/9~仍在職
-
-    要從到尾製作出一個木工機馬達，
-    需要了解整條生產線的所有流程及操作，
-    而我的職責就是在各個關卡做改機調機、異常排除，
-    進而處理各種突發種況與員工的人力分配。
-
-* 急食鮮調理食品有限公司(作業員)
-    2016/11~2018/7
-
-    完成幹部交代的事情，
-    支援學習其他部門的作業方式，
-    當半年的代理組長，指導新人學習。
-
-* 菱生精密股份有限公司(品管人員 、設備工程師)
-    2013/7~2016/6
-
-    入職第一年當品管人員抽查產線品質，
-    檢查晶片是否符合SOP要求的良品，
-    由於我是按部就班細心的人，因此找到數次不良品，避免出貨到客戶。
-    之後的兩年因表現良好升上設備工程師，
-    負責機台型號更改，各種機台異常排除。
-
 ## 專案與作品集
 | Image| Note|
 | -------- | --------|
@@ -152,18 +127,7 @@ jackycj0830@gamil.com
 | ![](https://i.imgur.com/WXq26q3.jpg)<br>[【前端速成】React 快速入門 布魯斯前端](https://www.youtube.com/watch?v=zqV7NIFGDrQ&t=6116s&ab_channel=%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF)| [2022/11/27](https://hackmd.io/9pgRXaNHRxaw1DIpRYOFZQ)  |
 | ![](https://i.imgur.com/J4oHtl5.jpg)<br>[【前端速成】JavaScript JS 快速入門 布魯斯前端](https://www.youtube.com/watch?v=1pYtVwIAvhY&ab_channel=%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF) | [2022/12/2](https://hackmd.io/7MMhUzbcQcWaKWYk6_IO8A)|
 | ![](https://i.imgur.com/OxlYXfZ.jpg)<br>[🔴 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ&ab_channel=SonnySangha)|[2022/12/10](https://hackmd.io/VovCee5tQ0GOAPtY75d7LQ)|
-## 學歷
-國立勤益科技大學
-電子工程科 二技畢業
-2016/9~2018/6
 
-國立勤益科技大學
-電子工程科 二專畢業
-2013/9~2016/6
-
-霧峰農工
-機械科 高職畢業
-2010/9~2013/6
 
 ## 專業技能
 * PHP 語言
@@ -249,10 +213,6 @@ https://codepen.io/idkxoskg-the-looper/pen/BaZyJPp
     
 - [↳回筆記首頁](https://hackmd.io/@a91929s/SJdkV0okY)
 
-###### tags: `六角筆記王` `阿布的前端學習筆記`
-
-{%hackmd Iiu5mOixR7yWkPHKCkabBg %}
-<iframe class="LikeCoin" height=210 src="https://button.like.co/in/embed/a91929s/button?referrer=https://hackmd.io/@a91929s" width="100%"></iframe>
     
     
 # 履歷
